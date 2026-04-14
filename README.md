@@ -29,7 +29,7 @@ As a solo developer with clearly defined requirements, the Waterfall model is ap
 ### Team Member (Solo Project)
 | Name | Role | Responsibility | Contribution |
 |------|------|----------------|--------------|
-| [Your Name] | Full-stack Developer | Design, Implementation, Testing, Documentation | 100% |
+| jim| Full-stack Developer | Design, Implementation, Testing, Documentation | 100% |
 
 ### Schedule
 | Phase | Week | Tasks |
